@@ -3,6 +3,7 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
+author,Author
 location,Location
 latitude,Latitude
 longitude,Longitude
